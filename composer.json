@@ -1,0 +1,17 @@
+{
+    "name": "iagoneves/clube_fullstack",
+    "description": "php-profissional",
+    "autoload": {
+        "files": [
+            "app/router/router.php"
+        ],
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [{
+        "name": "IAGO NEVES",
+        "email": "86116557+ineves7@users.noreply.github.com"
+    }],
+    "require": {}
+}
